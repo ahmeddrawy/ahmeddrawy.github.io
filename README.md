@@ -1,7 +1,7 @@
 ## Important links
 * [Study Journal](/Study-journal)
 * [Resume](resources/Resume.pdf)
-
+* [Projects](projects.md)
 ## Work
 currently working for [trackxy](https://trackxy.com/) as a junior software engineer and devOps
 
