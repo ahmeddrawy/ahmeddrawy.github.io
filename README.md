@@ -1,3 +1,6 @@
+Welcome to Ahmed Hanafy's blog, This Blog acts like a self journal for technical aspects regarding my career and self learning, also paying my debt back to the society if my articles can help anyone
+
+
 ## Important links
 * [Study Journal](/Study-journal)
 * [Resume](resources/Resume.pdf)
